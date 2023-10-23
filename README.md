@@ -1,2 +1,1 @@
 # BFSystem
-#報告
