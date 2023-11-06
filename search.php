@@ -1,4 +1,5 @@
-//検索画面
+<!--　担当：山﨑　5.検索結果画面-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
