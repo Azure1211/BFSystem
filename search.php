@@ -1,3 +1,4 @@
+//検索画面
 <!DOCTYPE html>
 <html lang="en">
 <head>
